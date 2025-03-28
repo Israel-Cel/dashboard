@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Entornos
+.env
+.env.local
+frontend/.env
+backend/.env
+
+# Builds
+build/
+dist/
+
+# Archivos del sistema
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
